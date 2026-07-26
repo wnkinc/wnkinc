@@ -1,8 +1,8 @@
 # Hey, I'm Wesley 👋
 
-Self-taught, still going. I mess around with computers and markets, and the stuff that survives ends up here.
+Mostly self-taught, with a BA in CS and data analytics in there somewhere. I mess around with computers and markets, and the stuff that survives ends up here.
 
-## 🔌 Agent infrastructure
+## 🔌 Agent infrastructure & security
 
 - **[claude-custom-connector-server](https://github.com/wnkinc/claude-custom-connector-server)** — secure MCP server framework for the Claude apps: Cloudflare Tunnel ingress, Google OAuth per tool, egress allowlists, an LLM-output guardrail sidecar, and out-of-band approvals. Runs on your own Linux box, or provisions its own EC2 VM with Pulumi.
 - **[beta-tools](https://github.com/wnkinc/beta-tools)** — the incubator overlay for that stack: X API surface, crypto market-data lake (OpenBB), self-hosted Lean backtesting.
