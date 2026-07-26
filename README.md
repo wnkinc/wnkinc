@@ -1,6 +1,6 @@
 # Hey, I'm Wesley 👋
 
-Self-taught builder. I learn by shipping — start at the bottom of this page and you can watch it happen, from my first HTML page to the agent infrastructure I run today. Happiest when I'm standing something up end to end and it actually works. Lately that's AI agents and markets.
+Self-taught, still going. I mess around with computers and markets, and the stuff that survives ends up here.
 
 ## 🔌 Agent infrastructure
 
