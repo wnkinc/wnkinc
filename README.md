@@ -1,4 +1,4 @@
-# Hey, I'm Wesley 👋
+# Hey 👋
 
 Self-taught, with a BA in CS and data analytics in there somewhere. I mess around with computers and markets, and the stuff that survives ends up here.
 
