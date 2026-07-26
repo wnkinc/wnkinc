@@ -1,6 +1,6 @@
 # Hey, I'm Wesley 👋
 
-I build infrastructure for AI agents — self-hosted MCP servers with a real security posture: OAuth on every tool, default-deny egress, output screening, and human-in-the-loop approval gates.
+Self-taught builder. I learn by shipping — start at the bottom of this page and you can watch it happen, from my first HTML page to the agent infrastructure I run today. Happiest when I'm standing something up end to end and it actually works. Lately that's AI agents and markets.
 
 ## 🔌 Agent infrastructure
 
