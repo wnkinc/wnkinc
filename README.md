@@ -1,6 +1,6 @@
 # Hey 👋
 
-Self-taught, with a BA in CS and data analytics in there somewhere. I like to mess around with computers and markets.
+BA in CS specializing in data analytics. I like to mess around with computers and markets.
 
 ## 🔌 Agent infrastructure & security
 
